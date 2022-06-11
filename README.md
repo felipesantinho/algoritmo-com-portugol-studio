@@ -1,2 +1,2 @@
 # algoritmo-com-portugol-studio
- Algoritmo com Portugol Studio
+ Curso de Algoritmo com Portugol Studio do CursoemVideo
