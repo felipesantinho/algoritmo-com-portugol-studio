@@ -1,11 +1,9 @@
 # algoritmo-com-portugol-studio
- Curso de **Algoritmo com Portugol Studio** do **_CursoemVideo_**
+ Exercícios realizados de **Algoritmo com Portugol Studio** do **_CursoemVideo_**
  
  ---
  
  **Conteúdo desse Repositório:**
- 
- - [x] Exercícios
  
  1. Sequências Básicas
  2. Condições Básicas
